@@ -1,5 +1,6 @@
 # SolarPlane
-Project of solar powered autonomous plane. Design is ready to use and manufacture
+Project of solar powered autonomous plane. Design is ready to use and manufacture.
+
 ![image](https://user-images.githubusercontent.com/53048230/134526850-37dedc4a-8e4b-44b8-b790-b4a0854f048a.png)
 ![image](https://user-images.githubusercontent.com/53048230/134526882-3cefd12c-0009-4f5d-b60d-369fdace937d.png)
 ![image](https://user-images.githubusercontent.com/53048230/134526985-c68bcdd5-a64e-4cdd-9981-1f7fc05f5271.png)
